@@ -1,0 +1,52 @@
+body{
+    background-color: wheat;
+} 
+
+body{
+    background-color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#header{
+    background-color: burlywood;
+    text-align: center;
+    padding: 10px;
+}
+
+
+#header h1{
+    color: blue;
+}
+
+#header blockquote{
+    background-color: palevioletred;
+    border: 1px dotted black;
+}
+
+.menu ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 10px;
+}
+
+.gambar{
+    text-align: center;
+}
+
+.gambar img{
+    width: 20%;
+}
+
+.koleksi{
+    text-align: center;
+}
+
+.koleksi img{
+    width: 20%;
+}
+
+.promo{
+    color: brown;
+    text-align: center;
+}

@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    background-color: #ffcc80;
+}
+.container{
+    height: 300px;
+    margin: 75px;
+}
+img{
+    margin: 15px;
+}
